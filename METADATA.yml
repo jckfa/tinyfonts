@@ -1,29 +1,15 @@
 ---
-unified font repository version: "0.2"
+unified font repository version: "0.3"
 unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
 typeface family:
-  name: Sample Font
+  name: TINY 5
   tags:
   - sans-serif
-  - art-deco
-  - caps
-  - bold
-  - rounded
-  - vertical
-  - layers
-  - inline
-  - outline
-  - shadow
-  - decorative
-  repository url: https://gitlab.com/djrrb/SampleFont
-  project url: https://samplefont.djr.com
-  project status: gamma
+  - modular
+  repository url: https://gitlab.com/jckfa/tinytype
+  project status: alpha
   tools:
-  - RoboFont
-  - FontLab
-  - MetricsMachine
-  - Prepolator
-  similar fonts:
+  - Glyphs
   sample text:
   - en_us: The quick brown fox jumps over the lazy dog
 ...
