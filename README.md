@@ -1,6 +1,3 @@
-### /sources/1-drawing
-Start here to expand this family.
-
 ## /fonts
 Grab the latest and greatest fonts here.
 

@@ -1,3 +1,0 @@
-feature liga {
-	sub f i by f_i;
-} liga;
