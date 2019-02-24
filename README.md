@@ -1,4 +1,4 @@
-# Download Latest Version (1.0
+# Download Latest Version (1.0)
 Lorem ipsum dolor sit amet.
 
 ## Family Styles
