@@ -39,3 +39,6 @@ Lorem ipsum dolor sit amet.
 - [Glyphs](https://glyphsapp.com/)
 - [Labelkey](https://github.com/RobertPratley/labelKey) (Glyphs plugin)
 - [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
+
+### Financial Support
+Donations are always very much appreciated: [@jckfa on Venmo](https://venmo.com/jckfa), [@jckfa on Cash ](https://cash.me/$jckfa)
