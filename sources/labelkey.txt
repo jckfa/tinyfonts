@@ -1,0 +1,6 @@
+red=Monospaced
+orange=(A/De)scending
+brown=Wider Caps
+yellow=Boxy
+lightGreen=Open Counters
+lightGray=Shorter Diacritics
