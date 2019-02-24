@@ -36,4 +36,6 @@ Lorem ipsum dolor sit amet.
 - ss06: Shorter Diacritic Characters
 
 ### Tools
-Designed in [Glyphs](https://glyphsapp.com/)
+- [Glyphs](https://glyphsapp.com/)
+- [Labelkey](https://github.com/RobertPratley/labelKey) (Glyphs plugin)
+- [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
