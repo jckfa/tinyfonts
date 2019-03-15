@@ -1,39 +1,54 @@
 # Download Latest Version (1.0)
 Lorem ipsum dolor sit amet.
 
-## Family Styles
-🔵⚪️⚪️⚪️⚪️
-- Just 5x3 in this version.
+### Family Styles
+```
+Just 5x3 in this version.
+```
 
-## Character Set
-🔵🔵🔵🔵🔵
-- Latin-based languages only but a lot of ’em
-- Lots of arrows
+### Character Set
+```
+Only Latin-based languages for now but a lot of ’em
+Various styles (see opentype features below)
+Extensive punctuation
+Math characters
+Roman Numberals
+Oldstyle figures
+Lots of arrows
+```
 
-## Drawing Quality
-🔵🔵🔵🔵🔵
-- Straightforward since every glyph ultimately inherits from a single component.
+### Drawing Quality
+```
+As good as it's gonna get. Every glyph ultimately inherits from a single component.
+```
 
-## Spacing
-🔵🔵🔵🔵🔵
-- Also straightforward for the above reason
+### Spacing
+```
+Also straightforward for the above reason
+```
 
-## Kerning
-🔵🔵🔵🔵🔵
-- Fairly solid but still on the lookout for revisions and additions.
+### Kerning
+```
+Solid.
+```
 
-## Hinting
-🔵🔵🔵🔵🔵
-- Autohinted w/ no plans to go manual.
+### Hinting
+```
+Autohinted w/ no plans to go manual.
+```
 
-## Opentype Features
-🔵🔵🔵🔵🔵
-- ss01: Monospaced
-- ss02: (A/de)scenders
-- ss03: Wider Capitals
-- ss04: Boxy
-- ss05: Open Counters
-- ss06: Shorter Diacritic Characters
+### Opentype Features
+```
+Stylistic Set 01: Monospaced
+Stylistic Set 02: (A/de)scenders
+Stylistic Set 03: Wider Capitals
+Stylistic Set 04: Boxy Forms
+Stylistic Set 05: Open Counters
+Stylistic Set 06: Shorter Diacritic Characters
+Case-Sensitive Forms
+Tabular Figures
+Oldstyle Figures
+```
 
 ### Tools
 - [Glyphs](https://glyphsapp.com/)
