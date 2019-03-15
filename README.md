@@ -17,6 +17,19 @@ Oldstyle figures
 Lots of arrows
 ```
 
+### Opentype Features
+```
+Stylistic Set 01: Monospaced
+Stylistic Set 02: (A/de)scenders
+Stylistic Set 03: Wider Capitals
+Stylistic Set 04: Boxy Forms
+Stylistic Set 05: Open Counters
+Stylistic Set 06: Shorter Diacritic Characters
+Case-Sensitive Forms
+Tabular Figures
+Oldstyle Figures
+```
+
 ### Drawing Quality
 ```
 As good as it's gonna get. Every glyph ultimately inherits from a single component.
@@ -35,19 +48,6 @@ Solid.
 ### Hinting
 ```
 Autohinted w/ no plans to go manual.
-```
-
-### Opentype Features
-```
-Stylistic Set 01: Monospaced
-Stylistic Set 02: (A/de)scenders
-Stylistic Set 03: Wider Capitals
-Stylistic Set 04: Boxy Forms
-Stylistic Set 05: Open Counters
-Stylistic Set 06: Shorter Diacritic Characters
-Case-Sensitive Forms
-Tabular Figures
-Oldstyle Figures
 ```
 
 ### Tools
