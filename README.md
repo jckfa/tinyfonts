@@ -3,7 +3,11 @@ Lorem ipsum dolor sit amet.
 
 ### Family Styles
 ```
-Just 5x3 in this version.
+5x3 0–300
+
+Comes as a variable font with a size axis to modify dot size from 0—300, 
+as well as 15 separate instances (each increasing the dot size by 20 units).
+Future releases will include more widths and more variable axes.
 ```
 
 ### Character Set
@@ -42,7 +46,7 @@ Also straightforward for the above reason
 
 ### Kerning
 ```
-Solid.
+Robust.
 ```
 
 ### Hinting
