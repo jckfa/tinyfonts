@@ -35,7 +35,7 @@ Case-Sensitive Forms
 Tabular Figures
 Oldstyle Figures
 
-Note: All of the stylistic sets can be chained together. So, for example, 
+All of the stylistic sets can be chained together. So, for example, 
 a wider, boxy C with open counters is available.
 ```
 
