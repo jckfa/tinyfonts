@@ -53,7 +53,8 @@ Also straightforward for the above reason
 ```
 Robust.
 
-
+Users can aslo easily apply additional kerning in increments of 100 to 
+achieve grid-perfect layouts.
 ```
 
 ### Hinting
