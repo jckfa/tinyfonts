@@ -32,6 +32,9 @@ Stylistic Set 06: Shorter Diacritic Characters
 Case-Sensitive Forms
 Tabular Figures
 Oldstyle Figures
+
+Note: All of the stylistic sets can be chained together. So, for example, 
+a wider, boxy C with open counters is available.
 ```
 
 ### Drawing Quality
@@ -47,6 +50,8 @@ Also straightforward for the above reason
 ### Kerning
 ```
 Robust.
+
+
 ```
 
 ### Hinting
