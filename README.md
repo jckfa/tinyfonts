@@ -1,5 +1,11 @@
-# Download Latest Version (1.0)
-Lorem ipsum dolor sit amet.
+# Download Latest Version
+
+### About
+```
+Designed by Jack Halten Fahnestock
+Released in 2019
+Licensed under SIL Open Font License, Version 1.1
+```
 
 ### Family Styles
 ```
@@ -66,9 +72,6 @@ Autohinted w/ no plans to go manual.
 - [Glyphs](https://glyphsapp.com/)
 - [Labelkey](https://github.com/RobertPratley/labelKey) (Glyphs plugin)
 - [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
-
-### License
-[SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL)
 
 ### Financial Support
 Donations are always very much appreciated: [@jckfa on Venmo](https://venmo.com/jckfa), [@jckfa on Cash ](https://cash.me/$jckfa)
