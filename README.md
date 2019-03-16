@@ -28,6 +28,7 @@ Oldstyle figures
 Fractions
 Roman Numberals
 Arrows for days
+Miscellaneous symbols
 ```
 
 ### Opentype Features
