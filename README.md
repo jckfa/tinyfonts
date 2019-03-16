@@ -31,7 +31,7 @@ Lots of arrows
 
 ### Opentype Features
 ```
-Stylistic Set 01: Monospaced
+Stylistic Set 01: Monospaced*
 Stylistic Set 02: (A/de)scenders
 Stylistic Set 03: Wider Capitals
 Stylistic Set 04: Boxy Forms
@@ -43,6 +43,8 @@ Oldstyle Figures
 
 All of the stylistic sets can be chained together. So, for example, 
 a wider, boxy C with open counters is available.
+
+* Kerning must be disabled in user's graphics editing program.
 ```
 
 ### Drawing Quality
