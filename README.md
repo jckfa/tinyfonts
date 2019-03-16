@@ -24,9 +24,10 @@ Only Latin-based languages for now but a lot of ’em
 Various styles (see opentype features below)
 Extensive punctuation
 Math characters
-Roman Numberals
 Oldstyle figures
-Lots of arrows
+Fractions
+Roman Numberals
+Arrows for days
 ```
 
 ### Opentype Features
