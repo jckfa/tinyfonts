@@ -18,7 +18,7 @@ Future releases will include more widths and more variable axes.
 
 ### Character Set
 ```
-1200+ glyphs
+1300+ glyphs
 
 Only Latin-based languages for now but a lot of ’em
 Various styles (see opentype features below)
