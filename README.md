@@ -13,7 +13,8 @@ Licensed under SIL Open Font License, Version 1.1
 
 Comes as a variable font with a size axis to modify dot size from 0—300, 
 as well as 15 separate instances (each increasing the dot size by 20 units).
-Future releases will include more widths and more variable axes.
+
+* Future releases will include more widths and more variable axes. *
 ```
 
 ### Character Set
@@ -43,11 +44,13 @@ Stylistic Set 06: Shorter Diacritic Characters
 Case-Sensitive Forms
 Tabular Figures
 Oldstyle Figures
+small caps
+superscript characters
 
-All of the stylistic sets can be chained together. So, for example, 
+The stylistic sets can be chained together so, for example, 
 a wider, boxy C with open counters is available.
 
-* Kerning must be disabled in user's graphics editing program.
+* Kerning must be disabled in user's graphics editing program. *
 ```
 
 ### Drawing Quality
