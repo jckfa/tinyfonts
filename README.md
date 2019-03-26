@@ -23,6 +23,7 @@ Future releases will include more widths and more variable axes.
 Only Latin-based languages for now but a lot of ’em
 Various styles (see opentype features below)
 Extensive punctuation
+superscript A-Z, numbers, & some punctuation 
 Math characters
 Oldstyle figures
 Fractions
