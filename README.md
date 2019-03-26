@@ -3,7 +3,7 @@
 ### About
 ```
 Designed by Jack Halten Fahnestock
-Released in 2019
+Released on 4 April 2019 on Velvetyne Type Foundry
 Licensed under SIL Open Font License, Version 1.1
 ```
 
