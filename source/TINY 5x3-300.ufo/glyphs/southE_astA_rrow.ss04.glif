@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southEastArrow.ss04" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="_part.dot" xOffset="350"/>
+    <component base="_part.dot" xOffset="250" yOffset="200"/>
+    <component base="_part.dot" xOffset="350" yOffset="100"/>
+    <component base="_part.dot" xOffset="150" yOffset="300"/>
+    <component base="_part.dot" xOffset="250"/>
+    <component base="_part.dot" xOffset="150"/>
+    <component base="_part.dot" xOffset="450" yOffset="200"/>
+    <component base="_part.dot" xOffset="450" yOffset="100"/>
+    <component base="_part.dot" xOffset="450"/>
+    <component base="_part.dot" xOffset="450" yOffset="300"/>
+    <component base="_part.dot" xOffset="150" yOffset="200"/>
+    <component base="_part.dot" xOffset="250" yOffset="100"/>
+    <component base="_part.dot" xOffset="50" yOffset="300"/>
+    <component base="_part.dot" xOffset="250" yOffset="300"/>
+    <component base="_part.dot" xOffset="350" yOffset="200"/>
+    <component base="_part.dot" xOffset="150" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

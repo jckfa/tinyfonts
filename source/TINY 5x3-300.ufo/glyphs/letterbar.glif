@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="letterbar" format="1">
+  <advance width="400"/>
+  <outline>
+    <component base="macroncomb" yOffset="-400"/>
+    <contour>
+      <point x="200" y="250" type="move" name="_middle"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

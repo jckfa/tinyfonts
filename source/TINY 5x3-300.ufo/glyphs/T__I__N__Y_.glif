@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T_I_N_Y" format="1">
+  <advance width="2300"/>
+  <outline>
+    <component base="T" xOffset="100"/>
+    <component base="I.ss01" xOffset="600"/>
+    <component base="N.ss03" xOffset="1100"/>
+    <component base="Y.ss03" xOffset="1700"/>
+    <component base="_part.dot" xOffset="1250"/>
+    <component base="_part.dot" xOffset="1450" yOffset="400"/>
+    <component base="_part.dot" xOffset="1650" yOffset="400"/>
+    <component base="_part.dot" xOffset="1050" yOffset="400"/>
+    <component base="_part.dot" xOffset="1050"/>
+    <component base="_part.dot" xOffset="350"/>
+    <component base="_part.dot" xOffset="150"/>
+    <component base="_part.dot" xOffset="450" yOffset="400"/>
+    <component base="_part.dot" xOffset="450" yOffset="300"/>
+    <component base="_part.dot" xOffset="50" yOffset="300"/>
+    <component base="_part.dot" xOffset="50" yOffset="400"/>
+    <component base="_part.dot" xOffset="2050"/>
+    <component base="_part.dot" xOffset="1850"/>
+    <component base="_part.dot" xOffset="2050" yOffset="400"/>
+    <component base="_part.dot" xOffset="1850" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>I.ss01</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>Y.ss03</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="1">
+  <advance width="300"/>
+  <unicode hex="0073"/>
+  <outline>
+    <component base="_part.dot" xOffset="150" yOffset="300"/>
+    <component base="_part.dot" xOffset="50" yOffset="200"/>
+    <component base="_part.dot" xOffset="50"/>
+    <component base="_part.dot" xOffset="150" yOffset="100"/>
+    <contour>
+      <point x="200" y="-50" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="200" y="450" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

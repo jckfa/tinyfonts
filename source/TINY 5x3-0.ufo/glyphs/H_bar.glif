@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="700"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="I" xOffset="100"/>
+    <component base="I" xOffset="400"/>
+    <component base="_part.dot" xOffset="250" yOffset="100"/>
+    <component base="_part.dot" xOffset="350" yOffset="100"/>
+    <component base="_part.dot" xOffset="50" yOffset="300"/>
+    <component base="_part.dot" xOffset="250" yOffset="300"/>
+    <component base="_part.dot" xOffset="350" yOffset="300"/>
+    <component base="_part.dot" xOffset="550" yOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

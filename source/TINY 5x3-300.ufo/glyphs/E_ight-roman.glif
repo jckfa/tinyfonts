@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eight-roman" format="1">
+  <advance width="1400"/>
+  <unicode hex="2167"/>
+  <note>
+    uni2167
+  </note>
+  <outline>
+    <component base="Five-roman"/>
+    <component base="One-roman" xOffset="600"/>
+    <component base="One-roman" xOffset="800"/>
+    <component base="One-roman" xOffset="1000"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

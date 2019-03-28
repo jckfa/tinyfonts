@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.ss01" format="1">
+  <advance width="400"/>
+  <outline>
+    <component base="t.ss01"/>
+    <component base="_part.dot" xOffset="150" yOffset="500"/>
+    <component base="_part.dot" xOffset="250" yOffset="500"/>
+    <component base="_part.dot" xOffset="150" yOffset="600"/>
+    <component base="_part.dot" xOffset="50" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

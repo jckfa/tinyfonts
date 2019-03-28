@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fifty-roman" format="1">
+  <advance width="500"/>
+  <unicode hex="216C"/>
+  <note>
+    uni216C
+  </note>
+  <outline>
+    <component base="L.ss01" xOffset="100"/>
+    <component base="_part.dot" xOffset="50"/>
+    <component base="_part.dot" xOffset="50" yOffset="400"/>
+    <component base="_part.dot" xOffset="350" yOffset="100"/>
+    <component base="_part.dot" xOffset="250" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L.ss01</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fivehundred-roman.ss01" format="1">
+  <advance width="800"/>
+  <note>
+    uni216E
+  </note>
+  <outline>
+    <component base="_part.dot" xOffset="550"/>
+    <component base="_part.dot" xOffset="150" yOffset="100"/>
+    <component base="_part.dot" xOffset="150" yOffset="200"/>
+    <component base="_part.dot" xOffset="150" yOffset="300"/>
+    <component base="_part.dot" xOffset="550" yOffset="400"/>
+    <component base="_part.dot" xOffset="650" yOffset="300"/>
+    <component base="_part.dot" xOffset="650" yOffset="200"/>
+    <component base="_part.dot" xOffset="650" yOffset="100"/>
+    <component base="_part.dot" xOffset="150" yOffset="400"/>
+    <component base="_part.dot" xOffset="150"/>
+    <component base="_part.dot" xOffset="50"/>
+    <component base="_part.dot" xOffset="50" yOffset="400"/>
+    <component base="_part.dot" xOffset="250" yOffset="400"/>
+    <component base="_part.dot" xOffset="250"/>
+    <component base="_part.dot" xOffset="350" yOffset="400"/>
+    <component base="_part.dot" xOffset="350"/>
+    <component base="_part.dot" xOffset="450" yOffset="400"/>
+    <component base="_part.dot" xOffset="450"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>6</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>7</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>8</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>9</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>12</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>13</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>14</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>15</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>16</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>17</integer>
+          <key>name</key>
+          <string>_part.dot</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

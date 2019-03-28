@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="One-roman" format="1">
+  <advance width="400"/>
+  <unicode hex="2160"/>
+  <note>
+    uni2160
+  </note>
+  <outline>
+    <component base="I.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 19:32:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>
