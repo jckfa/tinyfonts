@@ -66,7 +66,7 @@ to the leading formula and table below for more specific adjustment.
 
 Leading Formula:
 x = font size
-y = number of dot spaces between lines
+y = desired number of dot spaces between lines
 leading = x / 10 * (y + 5)
 ```
 | Font Size | Leading (0 dots) | Leading (1 dot) | Leading (2 dots) | Leading (3 dots) | Leading (4 dots) |
