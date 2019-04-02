@@ -35,7 +35,7 @@ Miscellaneous symbols
 
 ### Stylistic Sets
 ```
-Stylistic Set 01: Monospaced forms (kerning must also be disabled)
+Stylistic Set 01: (Mono/duo)spaced forms (kerning must also be disabled)
 Stylistic Set 02: (A/de)scenders
 Stylistic Set 03: Wider capitals
 Stylistic Set 04: Boxy forms
