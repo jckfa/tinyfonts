@@ -1,4 +1,4 @@
-# Download Latest Version
+# [Download Latest Version](https://github.com/jckfa/tinyfonts/archive/master.zip)
 
 ### About
 ```
