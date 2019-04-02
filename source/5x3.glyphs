@@ -3,8 +3,7 @@
 DisplayStrings = (
 "/S_T.sups/S_T.sups.ss04/T_H.sups  THE/B.sups/A.sups/N.sups/K.sups/S.sups \012\012A/A.sups/a.sc B/B.sups/b.sc C/C.sups D/D.sups/d.sc E/E.sups F/F.sups/f.sc G/G.sups/g.sc H/H.sups/h.sc \012I/I.sups/i.sc J/J.sups/j.sc K/K.sups/k.sc L/L.sups/l.sc M/M.sups/m.sc N/N.sups O/O.sups P/P.sups \012Q/Q.sups/q.sc R/R.sups/r.sc S/S.sups T/T.sups/t.sc U/U.sups V/V.sups W/W.sups X/X.sups Y/Y.sups/y.sc Z/Z.sups \012\012/calendar/calendar.ss01/dog/dog.ss01/diamondBlackSuit.ss01/diamondWhiteSuit.ss01/rightanglearc/rightanglearc.ss01/highVoltageSign/highVoltageSign.ss01/deliveryTruck/paperclip \012/pushpin/pushpin.ss01/speechBalloon/verticalfourdots/verticalfourdots.ss01/slashFieldStart/slashFieldEnd/expand/expand.ss01/u1F6F9/u1F6F9.ss01 \012\012/verticalfourdots ASDFASFAASDF/verticalfourdots ASDFASDF\012/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots ADFASDF/verticalfourdots ASDFASDF/verticalfourdots ASDFASDF\012/slashFieldStart/////////////////slashFieldEnd ASDFASDF\012n/slash.ss01 n/slash.ss02 n",
 "\012hhhh/parenleft.sups.ss02 HHTTPS/colon.sups/slash.sups/slash.sups WWW.VELVETYNE/period.sups FR1234567890/parenright.sups.ss02 \012\012Balenciaga Hellensworth\012\012   Rhode Island \012School of Design\012Founded in 1877\012 Graphic Design\012   Department\012\012HTTPS",
-"e/estimated/estimated.ss01 \012\0124fl.oz./estimated 118ml\012\012/dollar.osf.ss04 $/dollar.ss04 jcfa",
-$20
+"/One-roman/Two-roman/Three-roman/Four-roman/Five-roman/Six-roman/Seven-roman/Eight-roman/Nine-roman/Ten-roman/Fifty-roman/Hundred-roman/Fivehundred-roman/Thousand-roman/Two-roman.ss01/Four-roman.ss01/Six-roman.ss01/Eight-roman.ss01/Ten-roman.ss01/Fifty-roman.ss01/Fivehundred-roman.ss01"
 );
 copyright = "Copyright © 2018 by Jack Halten Fahnestock. All rights reserved.";
 customParameters = (
@@ -37637,9 +37636,102 @@ unicode = 2162;
 },
 {
 glyphname = "Four-roman";
-lastChange = "2019-03-15 17:57:17 +0000";
+lastChange = "2019-04-02 20:28:06 +0000";
 layers = (
 {
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 0}";
+}
+);
+layerId = "AD970AED-10EF-4F38-91B4-75B8D11F6E57";
+name = "Mar 15 19, 13:32";
+width = 800;
+},
+{
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 components = (
 {
 name = _part.dot;
@@ -37738,103 +37830,11 @@ name = _part.dot;
 transform = "{1, 0, 0, 1, 550, 100}";
 }
 );
-layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+layerId = "54D62F93-FBCC-4DAE-8B79-77DD2FF9464A";
+name = "Apr 2 19, 16:28";
 width = 900;
 },
 {
-associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
-components = (
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 650, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 650, 0}";
-}
-);
-layerId = "AD970AED-10EF-4F38-91B4-75B8D11F6E57";
-name = "Mar 15 19, 13:32";
-width = 800;
-},
-{
-associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 components = (
 {
 name = "Five-roman";
@@ -37844,8 +37844,7 @@ transform = "{1, 0, 0, 1, 200, 0}";
 name = "One-roman";
 }
 );
-layerId = "48D8E251-2849-42F4-A031-E64A6D925546";
-name = "Mar 15 19, 13:33";
+layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 width = 1000;
 }
 );
@@ -38264,9 +38263,102 @@ rightMetricsKey = H;
 {
 color = 0;
 glyphname = "Four-roman.ss01";
-lastChange = "2019-03-15 18:33:00 +0000";
+lastChange = "2019-04-02 20:28:25 +0000";
 layers = (
 {
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 0}";
+}
+);
+layerId = "AD970AED-10EF-4F38-91B4-75B8D11F6E57";
+name = "Mar 15 19, 13:32";
+width = 800;
+},
+{
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 components = (
 {
 name = _part.dot;
@@ -38365,103 +38457,11 @@ name = _part.dot;
 transform = "{1, 0, 0, 1, 550, 100}";
 }
 );
-layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+layerId = "28DB861D-2BE0-4355-8F88-20D10C8FB731";
+name = "Apr 2 19, 16:28";
 width = 900;
 },
 {
-associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
-components = (
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 650, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 650, 0}";
-}
-);
-layerId = "AD970AED-10EF-4F38-91B4-75B8D11F6E57";
-name = "Mar 15 19, 13:32";
-width = 800;
-},
-{
-associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 components = (
 {
 name = "Five-roman";
@@ -38479,8 +38479,7 @@ name = _part.dot;
 transform = "{1, 0, 0, 1, 350, 0}";
 }
 );
-layerId = "48D8E251-2849-42F4-A031-E64A6D925546";
-name = "Mar 15 19, 13:33";
+layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 width = 1200;
 }
 );
