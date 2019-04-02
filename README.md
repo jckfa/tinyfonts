@@ -59,22 +59,27 @@ Users can aslo easily apply additional kerning in increments of +−100 to
 achieve grid-perfect layouts.
 ```
 
-### Leading
+### Grid-Perfect Leading
 ```
-For grid-perfect leading (exactly one dot size between lines), divide Adobe's 
-auto leading in half or refer to the table below for common conversions.
+Divide Adobe's auto leading in half for one dot size between lines or refer 
+to the leading formula and table below for more specific adjustment.
+
+Leading Formula:
+x = font size
+y = number of dot spaces between lines
+leading = x / 10 * (y + 5)
 ```
-| Font Size  | Leading |
-| ---------- | ------- |
-| 12pt       | 7.2pt   |
-| 14pt       | 8.4pt   |
-| 18pt       | 10.8pt  |
-| 21pt       | 12.6pt  |
-| 24pt       | 14.4pt  |
-| 36pt       | 21.6pt  |
-| 48pt       | 28.8pt  |
-| 60pt       | 36pt    |
-| 72pt       | 43.2pt  |
+| Font Size | Leading (0 dots) | Leading (1 dot) | Leading (2 dots) | Leading (3 dots) | Leading (4 dots) |
+| --------- | ---------------- | --------------- | ---------------- | ---------------- | ---------------- |
+| 12pt      | 6pt              | 7.2pt           | 8.4pt            | 9.6pt            | 10.8pt           |
+| 14pt      | 7pt              | 8.4pt           | 9.8pt            | 11.2pt           | 12.6pt           |
+| 18pt      | 9pt              | 10.8pt          | 12.6pt           | 14.4pt           | 16.2pt           |
+| 21pt      | 10.5pt           | 12.6pt          | 14.7pt           | 16.8pt           | 18.9pt           |
+| 24pt      | 12pt             | 14.4pt          | 16.8pt           | 19.2pt           | 21.6pt           |
+| 36pt      | 18pt             | 21.6pt          | 25.2pt           | 28.8pt           | 32.4pt           |
+| 48pt      | 24pt             | 28.8pt          | 33.6pt           | 38.4pt           | 43.2pt           |
+| 60pt      | 30pt             | 36pt            | 42pt             | 48pt             | 54pt             |
+| 72pt      | 36pt             | 43.2pt          | 50.4pt           | 57.6pt           | 64.8pt           |
 
 ### Hinting
 ```
