@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="2205"/>
   <outline>
-    <component base="whiteCircle"/>
+    <component base="circle"/>
     <component base="_part.dot" xOffset="350" yOffset="500"/>
     <component base="_part.dot" xOffset="250" yOffset="200"/>
     <component base="_part.dot" xOffset="150" yOffset="-100"/>
@@ -20,11 +20,11 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>whiteCircle</string>
+          <string>circle</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -3,12 +3,12 @@
   <advance width="500"/>
   <outline>
     <component base="Y.ss03.ss04"/>
-    <component base="circumflexcomb" xOffset="100"/>
+    <component base="uni0302" xOffset="100"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Y</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

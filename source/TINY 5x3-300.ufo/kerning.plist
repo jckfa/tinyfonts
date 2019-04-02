@@ -1260,7 +1260,7 @@
 		<integer>-200</integer>
 		<key>asciicircum</key>
 		<integer>-100</integer>
-		<key>deliveryTruck</key>
+		<key>u1F69A</key>
 		<integer>0</integer>
 	</dict>
 	<key>@MMK_L_underscore.ss02</key>
@@ -1336,6 +1336,11 @@
 		<integer>0</integer>
 		<key>less.ss01</key>
 		<integer>0</integer>
+	</dict>
+	<key>arrowdown</key>
+	<dict>
+		<key>space</key>
+		<integer>-100</integer>
 	</dict>
 	<key>asciicircum</key>
 	<dict>
@@ -1415,11 +1420,6 @@
 		<integer>-100</integer>
 	</dict>
 	<key>degree</key>
-	<dict>
-		<key>space</key>
-		<integer>-100</integer>
-	</dict>
-	<key>downArrow</key>
 	<dict>
 		<key>space</key>
 		<integer>-100</integer>
@@ -1518,6 +1518,8 @@
 		<integer>-100</integer>
 		<key>@MMK_R_trademark</key>
 		<integer>-100</integer>
+		<key>arrowdown</key>
+		<integer>-100</integer>
 		<key>asciicircum</key>
 		<integer>-100</integer>
 		<key>braceleft.ss02</key>
@@ -1525,8 +1527,6 @@
 		<key>dcroat.ss04</key>
 		<integer>0</integer>
 		<key>degree</key>
-		<integer>-100</integer>
-		<key>downArrow</key>
 		<integer>-100</integer>
 	</dict>
 </dict>

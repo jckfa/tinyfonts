@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25C7" format="1">
+  <advance width="800"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <component base="_part.dot" xOffset="350"/>
+    <component base="_part.dot" xOffset="450" yOffset="100"/>
+    <component base="_part.dot" xOffset="550" yOffset="200"/>
+    <component base="_part.dot" xOffset="650" yOffset="300"/>
+    <component base="_part.dot" xOffset="550" yOffset="400"/>
+    <component base="_part.dot" xOffset="450" yOffset="400"/>
+    <component base="_part.dot" xOffset="350" yOffset="400"/>
+    <component base="_part.dot" xOffset="250" yOffset="400"/>
+    <component base="_part.dot" xOffset="50" yOffset="300"/>
+    <component base="_part.dot" xOffset="150" yOffset="200"/>
+    <component base="_part.dot" xOffset="250" yOffset="100"/>
+    <component base="_part.dot" xOffset="150" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-02 00:25:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

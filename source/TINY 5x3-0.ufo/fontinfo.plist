@@ -44,6 +44,14 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>0</integer>
+	</array>
 	<key>styleMapFamilyName</key>
 	<string>TINY 5x3 20</string>
 	<key>styleMapStyleName</key>

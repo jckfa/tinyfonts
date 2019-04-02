@@ -3,7 +3,7 @@
   <advance width="400"/>
   <unicode hex="00A8"/>
   <outline>
-    <component base="dieresiscomb"/>
+    <component base="uni0308"/>
   </outline>
   <lib>
     <dict>
@@ -15,11 +15,11 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dieresiscomb</string>
+          <string>uni0308</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
     </dict>
   </lib>
 </glyph>

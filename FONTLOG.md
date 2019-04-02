@@ -1,8 +1,8 @@
 ChangeLog
 ----------
 
-18 Sept 2018 (Jack Halten Fahnestock) Sample Font v0.9
-- Initial push of font "Sample Font"
+04 Apr 2018 (Jack Halten Fahnestock) TINY 5x3 v1.0
+- Initial release of 5x3
 
 
 Acknowledgements
@@ -15,4 +15,4 @@ alphabetical order.
 N: Jack Halten Fahnestock
 E: buttface@jackf.me
 W: https://jackf.me
-D: Typeface designer
+D: Original designer

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="600"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <component base="guilsinglleft"/>
+    <component base="guilsinglleft" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-02 00:25:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>less</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>less</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,12 +3,12 @@
   <advance width="400"/>
   <outline>
     <component base="C.ss04"/>
-    <component base="cedillacomb.low"/>
+    <component base="uni0327.low"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -4,12 +4,12 @@
   <unicode hex="0102"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb"/>
+    <component base="uni0306"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
     </dict>
   </lib>
 </glyph>

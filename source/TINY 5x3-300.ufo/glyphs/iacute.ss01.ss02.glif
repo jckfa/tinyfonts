@@ -2,13 +2,13 @@
 <glyph name="iacute.ss01.ss02" format="1">
   <advance width="400"/>
   <outline>
-    <component base="idotless.ss01.ss02"/>
+    <component base="dotlessi.ss01.ss02"/>
     <component base="acutecomb" xOffset="100" yOffset="-100"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

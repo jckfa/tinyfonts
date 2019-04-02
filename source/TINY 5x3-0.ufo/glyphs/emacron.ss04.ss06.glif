@@ -3,12 +3,12 @@
   <advance width="400"/>
   <outline>
     <component base="e.ss04.ss06"/>
-    <component base="macroncomb" yOffset="-200"/>
+    <component base="uni0304" yOffset="-200"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

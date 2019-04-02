@@ -2,13 +2,13 @@
 <glyph name="imacron.ss06" format="1">
   <advance width="200"/>
   <outline>
-    <component base="idotless.ss06"/>
-    <component base="macroncomb" xOffset="-100" yOffset="-200"/>
+    <component base="dotlessi.ss06"/>
+    <component base="uni0304" xOffset="-100" yOffset="-200"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

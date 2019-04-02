@@ -26,7 +26,7 @@
 		<string>Eogonek</string>
 		<string>G</string>
 		<string>Gbreve</string>
-		<string>Gcommaaccent</string>
+		<string>uni0122</string>
 		<string>Gdotaccent</string>
 		<string>H</string>
 		<string>I</string>
@@ -41,7 +41,7 @@
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
-		<string>Ncommaaccent</string>
+		<string>uni0145</string>
 		<string>Eng</string>
 		<string>Ntilde</string>
 		<string>OE</string>
@@ -49,7 +49,7 @@
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
-		<string>Rcommaaccent</string>
+		<string>uni0156</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -74,7 +74,7 @@
 		<string>AE.ss03</string>
 		<string>G.ss03</string>
 		<string>Gbreve.ss03</string>
-		<string>Gcommaaccent.ss03</string>
+		<string>uni0122.ss03</string>
 		<string>Gdotaccent.ss03</string>
 		<string>H.ss03</string>
 		<string>N.ss03</string>
@@ -107,11 +107,11 @@
 		<string>Dcaron.ss04</string>
 		<string>G.ss04</string>
 		<string>Gbreve.ss04</string>
-		<string>Gcommaaccent.ss04</string>
+		<string>uni0122.ss04</string>
 		<string>Gdotaccent.ss04</string>
 		<string>J.ss04</string>
 		<string>K.ss04</string>
-		<string>Kcommaaccent.ss04</string>
+		<string>uni0136.ss04</string>
 		<string>M.ss04</string>
 		<string>N.ss04</string>
 		<string>Nacute.ss04</string>
@@ -136,8 +136,8 @@
 		<string>Sacute.ss04</string>
 		<string>Scaron.ss04</string>
 		<string>Scedilla.ss04</string>
-		<string>Scommaaccent.ss04</string>
-		<string>Germandbls.ss04</string>
+		<string>uni0218.ss04</string>
+		<string>uni1E9E.ss04</string>
 		<string>U.ss04</string>
 		<string>Uacute.ss04</string>
 		<string>Ucircumflex.ss04</string>
@@ -176,11 +176,11 @@
 		<string>Dcaron.ss03.ss04</string>
 		<string>G.ss03.ss04</string>
 		<string>Gbreve.ss03.ss04</string>
-		<string>Gcommaaccent.ss03.ss04</string>
+		<string>uni0122.ss03.ss04</string>
 		<string>Gdotaccent.ss03.ss04</string>
 		<string>J.ss03.ss04</string>
 		<string>K.ss03.ss04</string>
-		<string>Kcommaaccent.ss03.ss04</string>
+		<string>uni0136.ss03.ss04</string>
 		<string>N.ss03.ss04</string>
 		<string>Nacute.ss03.ss04</string>
 		<string>Ncaron.ss03.ss04</string>
@@ -203,7 +203,7 @@
 		<string>Sacute.ss03.ss04</string>
 		<string>Scaron.ss03.ss04</string>
 		<string>Scedilla.ss03.ss04</string>
-		<string>Scommaaccent.ss03.ss04</string>
+		<string>uni0218.ss03.ss04</string>
 		<string>U.ss03.ss04</string>
 		<string>Uacute.ss03.ss04</string>
 		<string>Ucircumflex.ss03.ss04</string>
@@ -247,10 +247,10 @@
 		<string>d</string>
 		<string>eth</string>
 		<string>i</string>
-		<string>idotaccent</string>
+		<string>i.loclTRK</string>
 		<string>l</string>
 		<string>lacute</string>
-		<string>lcommaaccent</string>
+		<string>uni013C</string>
 		<string>d.ss04</string>
 		<string>eth.ss04</string>
 		<string>oslash.ss04</string>
@@ -312,18 +312,19 @@
 		<string>nine.ss04</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
-		<string>verticalfourdots</string>
+		<string>uni205E</string>
 		<string>colon.case</string>
 		<string>semicolon.ss02.case</string>
 		<string>semicolon.ss02</string>
 		<string>exclamdown.ss02</string>
 		<string>lessequal</string>
 		<string>plusminus</string>
-		<string>anticlockwiseTriangleTopUShapedArrow</string>
+		<string>uni2B8F</string>
 		<string>ampersand</string>
+		<string>paragraph</string>
 		<string>copyright</string>
-		<string>calendar</string>
-		<string>paperclip</string>
+		<string>u1F4C5</string>
+		<string>u1F4CE</string>
 		<string>copyright.ss02</string>
 		<string>ampersand.ss04</string>
 		<string>copyright.ss04</string>
@@ -354,7 +355,7 @@
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
 		<string>Otilde</string>
-		<string>Germandbls</string>
+		<string>uni1E9E</string>
 		<string>B.ss03</string>
 		<string>C.ss03</string>
 		<string>Cacute.ss03</string>
@@ -392,17 +393,17 @@
 		<string>nine</string>
 		<string>bullet</string>
 		<string>asterisk</string>
-		<string>guillemetleft</string>
+		<string>guillemotleft</string>
 		<string>guilsinglleft</string>
 		<string>multiply</string>
 		<string>equal</string>
 		<string>emptyset</string>
 		<string>infinity</string>
-		<string>blackCircle</string>
-		<string>whiteCircle</string>
-		<string>blackCircle.ss02</string>
-		<string>whiteCircle.ss02</string>
-		<string>anticlockwiseTriangleBottomUShapedArrow</string>
+		<string>uni25CF</string>
+		<string>circle</string>
+		<string>uni25CF.ss02</string>
+		<string>circle.ss02</string>
+		<string>uni2B8D</string>
 		<string>at</string>
 		<string>registered</string>
 		<string>daggerdbl</string>
@@ -446,9 +447,9 @@
 		<string>lslash</string>
 		<string>lslash.001</string>
 		<string>t.sc</string>
-		<string>blackDiamond</string>
-		<string>whiteDiamond</string>
-		<string>dog</string>
+		<string>uni25C6</string>
+		<string>uni25C7</string>
+		<string>u1F415</string>
 	</array>
 	<key>@MMK_L_J</key>
 	<array>
@@ -493,7 +494,7 @@
 		<string>numbersign</string>
 		<string>semicolon.case</string>
 		<string>notequal</string>
-		<string>speechBalloon</string>
+		<string>u1F4AC</string>
 		<string>daggerdbl.ss02</string>
 		<string>ampersand.ss01.ss05</string>
 		<string>ampersand.ss01.ss04.ss05</string>
@@ -501,9 +502,9 @@
 	<key>@MMK_L_K</key>
 	<array>
 		<string>K</string>
-		<string>Kcommaaccent</string>
+		<string>uni0136</string>
 		<string>K.ss03</string>
-		<string>Kcommaaccent.ss03</string>
+		<string>uni0136.ss03</string>
 		<string>X.ss03</string>
 		<string>idieresis.ss01.ss06</string>
 		<string>imacron.ss01.ss06</string>
@@ -521,11 +522,11 @@
 	<array>
 		<string>L</string>
 		<string>Lacute</string>
-		<string>Lcommaaccent</string>
+		<string>uni013B</string>
 		<string>l.sc</string>
 		<string>questiondown</string>
 		<string>questiondown.ss04</string>
-		<string>rightanglearc</string>
+		<string>uni22BE</string>
 	</array>
 	<key>@MMK_L_Lcaron</key>
 	<array>
@@ -564,20 +565,20 @@
 		<string>Sacute</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
-		<string>Scommaaccent</string>
+		<string>uni0218</string>
 		<string>S.ss03</string>
 		<string>Sacute.ss03</string>
 		<string>Scaron.ss03</string>
 		<string>Scedilla.ss03</string>
-		<string>Scommaaccent.ss03</string>
+		<string>uni0218.ss03</string>
 		<string>S.sups</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
-		<string>Tcommaaccent</string>
+		<string>uni0162</string>
+		<string>uni021A</string>
 		<string>T.sups</string>
 	</array>
 	<key>@MMK_L_Thorn</key>
@@ -664,7 +665,7 @@
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
-		<string>ncommaaccent</string>
+		<string>uni0146</string>
 		<string>eng</string>
 		<string>ntilde</string>
 		<string>oe</string>
@@ -744,7 +745,7 @@
 	<array>
 		<string>g</string>
 		<string>gbreve</string>
-		<string>gcommaaccent</string>
+		<string>uni0123</string>
 		<string>gdotaccent</string>
 		<string>j</string>
 		<string>s</string>
@@ -772,37 +773,37 @@
 	<key>@MMK_L_guilsinglright</key>
 	<array>
 		<string>Thorn</string>
-		<string>guillemetright</string>
+		<string>guillemotright</string>
 		<string>guilsinglright</string>
 		<string>greater</string>
 		<string>asciitilde</string>
 		<string>greater.case</string>
 		<string>asciicircum.case</string>
-		<string>upArrow</string>
-		<string>rightArrow</string>
-		<string>downArrow</string>
-		<string>leftRightArrow</string>
-		<string>rightFrombarArrow</string>
-		<string>upTipRightArrow</string>
-		<string>downTipRightArrow</string>
-		<string>upArrow.ss04</string>
-		<string>rightArrow.ss04</string>
-		<string>downArrow.ss04</string>
-		<string>rightArrow.ss01.ss04</string>
-		<string>upArrow.ss02.ss04</string>
-		<string>rightArrow.ss02.ss04</string>
-		<string>downArrow.ss02.ss04</string>
+		<string>arrowup</string>
+		<string>arrowright</string>
+		<string>arrowdown</string>
+		<string>arrowboth</string>
+		<string>uni21A6</string>
+		<string>uni21B1</string>
+		<string>uni21B3</string>
+		<string>arrowup.ss04</string>
+		<string>arrowright.ss04</string>
+		<string>arrowdown.ss04</string>
+		<string>arrowright.ss01.ss04</string>
+		<string>arrowup.ss02.ss04</string>
+		<string>arrowright.ss02.ss04</string>
+		<string>arrowdown.ss02.ss04</string>
 		<string>lozenge</string>
-		<string>upBlackTriangle</string>
-		<string>rightBlackTriangle</string>
-		<string>downBlackTriangle</string>
+		<string>triagup</string>
+		<string>uni25B6</string>
+		<string>triagdn</string>
 		<string>lozenge.ss02</string>
-		<string>diamondWhiteSuit</string>
-		<string>diamondBlackSuit</string>
-		<string>highVoltageSign</string>
-		<string>blackRightDoubleTriangle</string>
-		<string>pushpin</string>
-		<string>upandDownTriangleArrow</string>
+		<string>uni2662</string>
+		<string>diamond</string>
+		<string>uni26A1</string>
+		<string>uni23E9</string>
+		<string>u1F4CC</string>
+		<string>uni2B81</string>
 	</array>
 	<key>@MMK_L_hbar</key>
 	<array>
@@ -819,12 +820,12 @@
 		<string>plus.case</string>
 		<string>minus.case</string>
 		<string>divide.case</string>
-		<string>leftArrow</string>
-		<string>deliveryTruck</string>
+		<string>arrowleft</string>
+		<string>u1F69A</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
-		<string>idotless</string>
+		<string>dotlessi</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
@@ -832,16 +833,16 @@
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>k</string>
-		<string>kcommaaccent</string>
+		<string>uni0137</string>
 		<string>q</string>
 		<string>sacute</string>
 		<string>scaron</string>
 		<string>scedilla</string>
-		<string>scommaaccent</string>
+		<string>uni0219</string>
 		<string>t</string>
 		<string>tbar</string>
-		<string>tcedilla</string>
-		<string>tcommaaccent</string>
+		<string>uni0163</string>
+		<string>uni021B</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -858,10 +859,10 @@
 		<string>zdotaccent</string>
 		<string>g.ss02</string>
 		<string>gbreve.ss02</string>
-		<string>gcommaaccent.ss02</string>
+		<string>uni0123.ss02</string>
 		<string>gdotaccent.ss02</string>
 		<string>i.ss02</string>
-		<string>idotaccent.ss02</string>
+		<string>i.loclTRK.ss02</string>
 		<string>j.ss02</string>
 		<string>q.ss02</string>
 		<string>y.ss02</string>
@@ -897,17 +898,17 @@
 		<string>eogonek.ss04</string>
 		<string>g.ss04</string>
 		<string>gbreve.ss04</string>
-		<string>gcommaaccent.ss04</string>
+		<string>uni0123.ss04</string>
 		<string>gdotaccent.ss04</string>
 		<string>h.ss04</string>
 		<string>j.ss04</string>
 		<string>k.ss04</string>
-		<string>kcommaaccent.ss04</string>
+		<string>uni0137.ss04</string>
 		<string>m.ss04</string>
 		<string>n.ss04</string>
 		<string>nacute.ss04</string>
 		<string>ncaron.ss04</string>
-		<string>ncommaaccent.ss04</string>
+		<string>uni0146.ss04</string>
 		<string>eng.ss04</string>
 		<string>ntilde.ss04</string>
 		<string>o.ss04</string>
@@ -924,7 +925,7 @@
 		<string>s.ss04</string>
 		<string>g.ss02.ss04</string>
 		<string>gbreve.ss02.ss04</string>
-		<string>gcommaaccent.ss02.ss04</string>
+		<string>uni0123.ss02.ss04</string>
 		<string>gdotaccent.ss02.ss04</string>
 		<string>j.ss02.ss04</string>
 		<string>p.ss02.ss04</string>
@@ -936,8 +937,8 @@
 		<string>ygrave.ss02.ss04</string>
 		<string>t.ss04</string>
 		<string>tbar.ss04</string>
-		<string>tcedilla.ss04</string>
-		<string>tcommaaccent.ss04</string>
+		<string>uni0163.ss04</string>
+		<string>uni021B.ss04</string>
 		<string>u.ss04</string>
 		<string>uacute.ss04</string>
 		<string>ucircumflex.ss04</string>
@@ -969,8 +970,8 @@
 	</array>
 	<key>@MMK_L_northWestArrow</key>
 	<array>
-		<string>southWestArrow</string>
-		<string>northWestArrow</string>
+		<string>uni2199</string>
+		<string>uni2196</string>
 	</array>
 	<key>@MMK_L_p</key>
 	<array>
@@ -1027,11 +1028,11 @@
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
-		<string>rcommaaccent</string>
+		<string>uni0157</string>
 		<string>r.ss04</string>
 		<string>racute.ss04</string>
 		<string>rcaron.ss04</string>
-		<string>rcommaaccent.ss04</string>
+		<string>uni0157.ss04</string>
 	</array>
 	<key>@MMK_L_slash</key>
 	<array>
@@ -1087,16 +1088,16 @@
 		<string>Imacron</string>
 		<string>Iogonek</string>
 		<string>K</string>
-		<string>Kcommaaccent</string>
+		<string>uni0136</string>
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
-		<string>Lcommaaccent</string>
+		<string>uni013B</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
-		<string>Ncommaaccent</string>
+		<string>uni0145</string>
 		<string>Eng</string>
 		<string>Ntilde</string>
 		<string>P</string>
@@ -1104,15 +1105,15 @@
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
-		<string>Rcommaaccent</string>
-		<string>Germandbls</string>
+		<string>uni0156</string>
+		<string>uni1E9E</string>
 		<string>X</string>
 		<string>B.ss03</string>
 		<string>D.ss03</string>
 		<string>Dcaron.ss03</string>
 		<string>H.ss03</string>
 		<string>K.ss03</string>
-		<string>Kcommaaccent.ss03</string>
+		<string>uni0136.ss03</string>
 		<string>Lcaron.ss03</string>
 		<string>N.ss03</string>
 		<string>Nacute.ss03</string>
@@ -1145,10 +1146,10 @@
 		<string>Dcaron.ss04</string>
 		<string>G.ss04</string>
 		<string>Gbreve.ss04</string>
-		<string>Gcommaaccent.ss04</string>
+		<string>uni0122.ss04</string>
 		<string>Gdotaccent.ss04</string>
 		<string>K.ss04</string>
-		<string>Kcommaaccent.ss04</string>
+		<string>uni0136.ss04</string>
 		<string>M.ss04</string>
 		<string>N.ss04</string>
 		<string>Nacute.ss04</string>
@@ -1174,8 +1175,8 @@
 		<string>Sacute.ss04</string>
 		<string>Scaron.ss04</string>
 		<string>Scedilla.ss04</string>
-		<string>Scommaaccent.ss04</string>
-		<string>Germandbls.ss04</string>
+		<string>uni0218.ss04</string>
+		<string>uni1E9E.ss04</string>
 		<string>U.ss04</string>
 		<string>Uacute.ss04</string>
 		<string>Ucircumflex.ss04</string>
@@ -1202,10 +1203,10 @@
 		<string>Dcaron.ss03.ss04</string>
 		<string>G.ss03.ss04</string>
 		<string>Gbreve.ss03.ss04</string>
-		<string>Gcommaaccent.ss03.ss04</string>
+		<string>uni0122.ss03.ss04</string>
 		<string>Gdotaccent.ss03.ss04</string>
 		<string>K.ss03.ss04</string>
-		<string>Kcommaaccent.ss03.ss04</string>
+		<string>uni0136.ss03.ss04</string>
 		<string>N.ss03.ss04</string>
 		<string>Nacute.ss03.ss04</string>
 		<string>Ncaron.ss03.ss04</string>
@@ -1230,7 +1231,7 @@
 		<string>Sacute.ss03.ss04</string>
 		<string>Scaron.ss03.ss04</string>
 		<string>Scedilla.ss03.ss04</string>
-		<string>Scommaaccent.ss03.ss04</string>
+		<string>uni0218.ss03.ss04</string>
 		<string>U.ss03.ss04</string>
 		<string>Uacute.ss03.ss04</string>
 		<string>Ucircumflex.ss03.ss04</string>
@@ -1286,32 +1287,32 @@
 		<string>f</string>
 		<string>h</string>
 		<string>i</string>
-		<string>idotless</string>
+		<string>dotlessi</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>idotaccent</string>
+		<string>i.loclTRK</string>
 		<string>igrave</string>
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>k</string>
-		<string>kcommaaccent</string>
+		<string>uni0137</string>
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
-		<string>lcommaaccent</string>
+		<string>uni013C</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
-		<string>ncommaaccent</string>
+		<string>uni0146</string>
 		<string>eng</string>
 		<string>ntilde</string>
 		<string>p</string>
 		<string>thorn</string>
 		<string>germandbls</string>
 		<string>i.ss02</string>
-		<string>idotaccent.ss02</string>
+		<string>i.loclTRK.ss02</string>
 		<string>p.ss02</string>
 		<string>b.ss04</string>
 		<string>c.ss04</string>
@@ -1334,12 +1335,12 @@
 		<string>f.ss04</string>
 		<string>h.ss04</string>
 		<string>k.ss04</string>
-		<string>kcommaaccent.ss04</string>
+		<string>uni0137.ss04</string>
 		<string>m.ss04</string>
 		<string>n.ss04</string>
 		<string>nacute.ss04</string>
 		<string>ncaron.ss04</string>
-		<string>ncommaaccent.ss04</string>
+		<string>uni0146.ss04</string>
 		<string>eng.ss04</string>
 		<string>ntilde.ss04</string>
 		<string>o.ss04</string>
@@ -1357,11 +1358,11 @@
 		<string>r.ss04</string>
 		<string>racute.ss04</string>
 		<string>rcaron.ss04</string>
-		<string>rcommaaccent.ss04</string>
+		<string>uni0157.ss04</string>
 		<string>germandbls.ss04</string>
 		<string>g.ss02.ss04</string>
 		<string>gbreve.ss02.ss04</string>
-		<string>gcommaaccent.ss02.ss04</string>
+		<string>uni0123.ss02.ss04</string>
 		<string>gdotaccent.ss02.ss04</string>
 		<string>p.ss02.ss04</string>
 		<string>q.ss02.ss04</string>
@@ -1373,8 +1374,8 @@
 		<string>t.ss04</string>
 		<string>tbar.ss04</string>
 		<string>tcaron.ss04</string>
-		<string>tcedilla.ss04</string>
-		<string>tcommaaccent.ss04</string>
+		<string>uni0163.ss04</string>
+		<string>uni021B.ss04</string>
 		<string>u.ss04</string>
 		<string>uacute.ss04</string>
 		<string>ucircumflex.ss04</string>
@@ -1470,7 +1471,7 @@
 		<string>exclam</string>
 		<string>exclamdown</string>
 		<string>numbersign</string>
-		<string>verticalfourdots</string>
+		<string>uni205E</string>
 		<string>colon.case</string>
 		<string>semicolon.case</string>
 		<string>semicolon.ss02.case</string>
@@ -1480,11 +1481,11 @@
 		<string>notequal</string>
 		<string>greaterequal</string>
 		<string>plusminus</string>
-		<string>rightanglearc</string>
+		<string>uni22BE</string>
 		<string>at</string>
 		<string>copyright</string>
 		<string>registered</string>
-		<string>calendar</string>
+		<string>u1F4C5</string>
 		<string>copyright.ss02</string>
 		<string>ampersand.ss04</string>
 		<string>copyright.ss04</string>
@@ -1525,6 +1526,7 @@
 		<string>cdotaccent.ss06</string>
 		<string>edotaccent.ss06</string>
 		<string>slash.ss02</string>
+		<string>uni21C8</string>
 	</array>
 	<key>@MMK_R_C</key>
 	<array>
@@ -1535,7 +1537,7 @@
 		<string>Cdotaccent</string>
 		<string>G</string>
 		<string>Gbreve</string>
-		<string>Gcommaaccent</string>
+		<string>uni0122</string>
 		<string>Gdotaccent</string>
 		<string>O</string>
 		<string>Oacute</string>
@@ -1555,7 +1557,7 @@
 		<string>Cdotaccent.ss03</string>
 		<string>G.ss03</string>
 		<string>Gbreve.ss03</string>
-		<string>Gcommaaccent.ss03</string>
+		<string>uni0122.ss03</string>
 		<string>Gdotaccent.ss03</string>
 		<string>O.ss03</string>
 		<string>Oacute.ss03</string>
@@ -1590,19 +1592,19 @@
 		<string>eight</string>
 		<string>bullet</string>
 		<string>asterisk</string>
-		<string>guillemetright</string>
+		<string>guillemotright</string>
 		<string>guilsinglright</string>
 		<string>multiply</string>
 		<string>equal</string>
 		<string>emptyset</string>
 		<string>infinity</string>
-		<string>blackCircle</string>
-		<string>whiteCircle</string>
-		<string>blackCircle.ss02</string>
-		<string>whiteCircle.ss02</string>
+		<string>uni25CF</string>
+		<string>circle</string>
+		<string>uni25CF.ss02</string>
+		<string>circle.ss02</string>
 		<string>ampersand</string>
 		<string>daggerdbl</string>
-		<string>paperclip</string>
+		<string>u1F4CE</string>
 		<string>ampersand.ss05</string>
 		<string>ampersand.ss01.ss05</string>
 	</array>
@@ -1622,9 +1624,9 @@
 		<string>Hbar</string>
 		<string>t.sc</string>
 		<string>one</string>
-		<string>blackDiamond</string>
-		<string>whiteDiamond</string>
-		<string>dog</string>
+		<string>uni25C6</string>
+		<string>uni25C7</string>
+		<string>u1F415</string>
 	</array>
 	<key>@MMK_R_J</key>
 	<array>
@@ -1650,26 +1652,27 @@
 		<string>Sacute</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
-		<string>Scommaaccent</string>
+		<string>uni0218</string>
 		<string>S.ss03</string>
 		<string>Sacute.ss03</string>
 		<string>Scaron.ss03</string>
 		<string>Scedilla.ss03</string>
-		<string>Scommaaccent.ss03</string>
+		<string>uni0218.ss03</string>
 		<string>S.sups</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
-		<string>Tcommaaccent</string>
+		<string>uni0162</string>
+		<string>uni021A</string>
 		<string>hbar</string>
 		<string>T.sups</string>
 	</array>
 	<key>@MMK_R_Tbar</key>
 	<array>
 		<string>Tbar</string>
+		<string>paragraph</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -1707,8 +1710,8 @@
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
-		<string>tcommaaccent</string>
+		<string>uni0163</string>
+		<string>uni021B</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -1742,8 +1745,8 @@
 		<string>W.sups</string>
 		<string>W_W_W.sups</string>
 		<string>six</string>
-		<string>deliveryTruck</string>
-		<string>speechBalloon</string>
+		<string>u1F69A</string>
+		<string>u1F4AC</string>
 		<string>daggerdbl.ss02</string>
 	</array>
 	<key>@MMK_R_X.ss03</key>
@@ -1901,12 +1904,12 @@
 	<array>
 		<string>g</string>
 		<string>gbreve</string>
-		<string>gcommaaccent</string>
+		<string>uni0123</string>
 		<string>gdotaccent</string>
 		<string>sacute</string>
 		<string>scaron</string>
 		<string>scedilla</string>
-		<string>scommaaccent</string>
+		<string>uni0219</string>
 		<string>y</string>
 		<string>yacute</string>
 		<string>ycircumflex</string>
@@ -1914,7 +1917,7 @@
 		<string>ygrave</string>
 		<string>g.ss04</string>
 		<string>gbreve.ss04</string>
-		<string>gcommaaccent.ss04</string>
+		<string>uni0123.ss04</string>
 		<string>gdotaccent.ss04</string>
 		<string>s.ss04</string>
 		<string>y.ss04</string>
@@ -1930,7 +1933,7 @@
 	<array>
 		<string>g.ss02</string>
 		<string>gbreve.ss02</string>
-		<string>gcommaaccent.ss02</string>
+		<string>uni0123.ss02</string>
 		<string>gdotaccent.ss02</string>
 	</array>
 	<key>@MMK_R_hyphen</key>
@@ -1944,7 +1947,7 @@
 		<string>plus.case</string>
 		<string>minus.case</string>
 		<string>divide.case</string>
-		<string>rightArrow</string>
+		<string>arrowright</string>
 	</array>
 	<key>@MMK_R_j.ss02</key>
 	<array>
@@ -1953,8 +1956,8 @@
 	</array>
 	<key>@MMK_R_northEastArrow</key>
 	<array>
-		<string>northEastArrow</string>
-		<string>southEastArrow</string>
+		<string>uni2197</string>
+		<string>uni2198</string>
 	</array>
 	<key>@MMK_R_oslash</key>
 	<array>
@@ -1988,39 +1991,39 @@
 	<array>
 		<string>q</string>
 		<string>one.osf</string>
-		<string>guillemetleft</string>
+		<string>guillemotleft</string>
 		<string>guilsinglleft</string>
 		<string>less</string>
 		<string>asciitilde</string>
 		<string>less.case</string>
 		<string>asciicircum.case</string>
-		<string>upArrow</string>
-		<string>downArrow</string>
-		<string>leftArrow</string>
-		<string>leftRightArrow</string>
-		<string>leftFrombarArrow</string>
-		<string>upTipLeftArrow</string>
-		<string>downTipLeftArrow</string>
-		<string>upArrow.ss04</string>
-		<string>downArrow.ss04</string>
-		<string>leftArrow.ss04</string>
-		<string>leftArrow.ss01.ss04</string>
-		<string>upArrow.ss02.ss04</string>
-		<string>downArrow.ss02.ss04</string>
-		<string>leftArrow.ss02.ss04</string>
+		<string>arrowup</string>
+		<string>arrowdown</string>
+		<string>arrowleft</string>
+		<string>arrowboth</string>
+		<string>uni21A4</string>
+		<string>uni21B0</string>
+		<string>uni21B2</string>
+		<string>arrowup.ss04</string>
+		<string>arrowdown.ss04</string>
+		<string>arrowleft.ss04</string>
+		<string>arrowleft.ss01.ss04</string>
+		<string>arrowup.ss02.ss04</string>
+		<string>arrowdown.ss02.ss04</string>
+		<string>arrowleft.ss02.ss04</string>
 		<string>lozenge</string>
-		<string>upBlackTriangle</string>
-		<string>downBlackTriangle</string>
-		<string>leftBlackTriangle</string>
+		<string>triagup</string>
+		<string>triagdn</string>
+		<string>uni25C0</string>
 		<string>lozenge.ss02</string>
-		<string>diamondWhiteSuit</string>
-		<string>diamondBlackSuit</string>
-		<string>highVoltageSign</string>
-		<string>anticlockwiseTriangleBottomUShapedArrow</string>
-		<string>anticlockwiseTriangleTopUShapedArrow</string>
-		<string>blackLeftDoubleTriangle</string>
-		<string>pushpin</string>
-		<string>upandDownTriangleArrow</string>
+		<string>uni2662</string>
+		<string>diamond</string>
+		<string>uni26A1</string>
+		<string>uni2B8D</string>
+		<string>uni2B8F</string>
+		<string>uni23EA</string>
+		<string>u1F4CC</string>
+		<string>uni2B81</string>
 	</array>
 	<key>@MMK_R_question</key>
 	<array>
@@ -2057,7 +2060,7 @@
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
-		<string>rcommaaccent</string>
+		<string>uni0157</string>
 	</array>
 	<key>@MMK_R_semicolon</key>
 	<array>

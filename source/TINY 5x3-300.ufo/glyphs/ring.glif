@@ -3,7 +3,7 @@
   <advance width="400"/>
   <unicode hex="02DA"/>
   <outline>
-    <component base="ringcomb"/>
+    <component base="uni030A"/>
   </outline>
   <lib>
     <dict>
@@ -15,11 +15,11 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>ringcomb</string>
+          <string>uni030A</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
     </dict>
   </lib>
 </glyph>

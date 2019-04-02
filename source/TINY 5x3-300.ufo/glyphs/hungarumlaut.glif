@@ -3,7 +3,7 @@
   <advance width="500"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="hungarumlautcomb"/>
+    <component base="uni030B"/>
   </outline>
   <lib>
     <dict>
@@ -15,11 +15,11 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>hungarumlautcomb</string>
+          <string>uni030B</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-27 19:32:43 +0000</string>
+      <string>2019-04-02 00:25:50 +0000</string>
     </dict>
   </lib>
 </glyph>
