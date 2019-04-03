@@ -1,6 +1,6 @@
 # [Download Latest Version](https://github.com/jckfa/tinyfonts/archive/master.zip)
 
-![Basic Character Set](/documentation/basic_char_set.png "Basic Character Set")
+![Basic Character Set](/documentation/basic_char_set.gif "Basic Character Set")
 
 ### About
 ```
