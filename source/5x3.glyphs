@@ -1,10 +1,5 @@
 {
 .appVersion = "1192";
-DisplayStrings = (
-"/S_T.sups/S_T.sups.ss04/T_H.sups  THE/B.sups/A.sups/N.sups/K.sups/S.sups \012\012A/A.sups/a.sc B/B.sups/b.sc C/C.sups D/D.sups/d.sc E/E.sups F/F.sups/f.sc G/G.sups/g.sc H/H.sups/h.sc \012I/I.sups/i.sc J/J.sups/j.sc K/K.sups/k.sc L/L.sups/l.sc M/M.sups/m.sc N/N.sups O/O.sups P/P.sups \012Q/Q.sups/q.sc R/R.sups/r.sc S/S.sups T/T.sups/t.sc U/U.sups V/V.sups W/W.sups X/X.sups Y/Y.sups/y.sc Z/Z.sups \012\012/calendar/calendar.ss01/dog/dog.ss01/diamondBlackSuit.ss01/diamondWhiteSuit.ss01/rightanglearc/rightanglearc.ss01/highVoltageSign/highVoltageSign.ss01/deliveryTruck/paperclip \012/pushpin/pushpin.ss01/speechBalloon/verticalfourdots/verticalfourdots.ss01/slashFieldStart/slashFieldEnd/expand/expand.ss01/u1F6F9/u1F6F9.ss01 \012\012/verticalfourdots ASDFASFAASDF/verticalfourdots ASDFASDF\012/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots/verticalfourdots ADFASDF/verticalfourdots ASDFASDF/verticalfourdots ASDFASDF\012/slashFieldStart/////////////////slashFieldEnd ASDFASDF\012n/slash.ss01 n/slash.ss02 n",
-"\012hhhh/parenleft.sups.ss02 HHTTPS/colon.sups/slash.sups/slash.sups WWW.VELVETYNE/period.sups FR1234567890/parenright.sups.ss02 \012\012Balenciaga Hellensworth\012\012   Rhode Island \012School of Design\012Founded in 1877\012 Graphic Design\012   Department\012\012HTTPS",
-"/One-roman/Two-roman/Three-roman/Four-roman/Five-roman/Six-roman/Seven-roman/Eight-roman/Nine-roman/Ten-roman/Fifty-roman/Hundred-roman/Fivehundred-roman/Thousand-roman/Two-roman.ss01/Four-roman.ss01/Six-roman.ss01/Eight-roman.ss01/Ten-roman.ss01/Fifty-roman.ss01/Fivehundred-roman.ss01"
-);
 copyright = "Copyright © 2018 by Jack Halten Fahnestock. All rights reserved.";
 customParameters = (
 {
@@ -41536,7 +41531,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2019-02-17 21:37:55 +0000";
+lastChange = "2019-04-03 00:33:11 +0000";
 layers = (
 {
 components = (
@@ -41572,7 +41567,7 @@ unicode = 0029;
 },
 {
 glyphname = braceleft;
-lastChange = "2019-02-20 07:08:30 +0000";
+lastChange = "2019-04-03 02:32:47 +0000";
 layers = (
 {
 components = (
@@ -41653,6 +41648,7 @@ name = "Jul 23 18, 12:42";
 width = 400;
 }
 );
+leftKerningGroup = Eth;
 leftMetricsKey = H;
 rightKerningGroup = K;
 rightMetricsKey = H;
@@ -41660,7 +41656,7 @@ unicode = 007B;
 },
 {
 glyphname = braceright;
-lastChange = "2019-02-14 05:35:40 +0000";
+lastChange = "2019-04-03 00:28:42 +0000";
 layers = (
 {
 components = (
@@ -41699,6 +41695,7 @@ width = 400;
 );
 leftKerningGroup = X.ss03;
 leftMetricsKey = H;
+rightKerningGroup = guilsinglright;
 rightMetricsKey = H;
 unicode = 007D;
 },
@@ -41748,7 +41745,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2019-02-20 06:18:25 +0000";
+lastChange = "2019-04-03 00:25:06 +0000";
 layers = (
 {
 components = (
@@ -49029,7 +49026,7 @@ unicode = 2197;
 },
 {
 glyphname = rightArrow;
-lastChange = "2019-03-22 03:19:36 +0000";
+lastChange = "2019-04-03 00:32:38 +0000";
 layers = (
 {
 components = (
@@ -54146,7 +54143,7 @@ unicode = 263C;
 },
 {
 glyphname = diamondWhiteSuit;
-lastChange = "2019-03-27 06:04:52 +0000";
+lastChange = "2019-04-03 00:26:48 +0000";
 layers = (
 {
 components = (
@@ -68509,6 +68506,7 @@ trademark = 0;
 };
 "@MMK_L_guilsinglright" = {
 "@MMK_R_T" = -100;
+"@MMK_R_X.ss03" = -100;
 "@MMK_R_Y.ss03" = -100;
 "@MMK_R_backslash" = -100;
 "@MMK_R_backslash.ss02" = -100;
@@ -68521,7 +68519,6 @@ trademark = 0;
 "@MMK_R_slash" = -100;
 "@MMK_R_underscore" = -100;
 "@MMK_R_underscore.ss02" = -100;
-braceleft = -100;
 };
 "@MMK_L_hbar" = {
 "@MMK_R_Hbar" = -100;
@@ -68555,6 +68552,7 @@ space = -100;
 };
 "@MMK_L_p" = {
 "@MMK_R_T" = -100;
+"@MMK_R_X.ss03" = -100;
 "@MMK_R_Y.ss03" = -100;
 "@MMK_R_question" = -100;
 "@MMK_R_underscore" = -100;

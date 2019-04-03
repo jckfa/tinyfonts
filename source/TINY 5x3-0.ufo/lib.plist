@@ -4,7 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/One-roman/Two-roman/Three-roman/Four-roman  /_part.dot  /Five-roman/Six-roman/Seven-roman/Eight-roman/Nine-roman/Ten-roman/Fifty-roman/Hundred-roman/Fivehundred-roman/Thousand-roman/Two-roman.ss01/Four-roman.ss01/Six-roman.ss01/Eight-roman.ss01/Ten-roman.ss01/Fifty-roman.ss01/Fivehundred-roman.ss01</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

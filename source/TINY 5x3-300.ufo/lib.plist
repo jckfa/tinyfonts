@@ -4,7 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/One-roman/Two-roman/Three-roman/Four-roman  /_part.dot  /Five-roman/Six-roman/Seven-roman/Eight-roman/Nine-roman/Ten-roman/Fifty-roman/Hundred-roman/Fivehundred-roman/Thousand-roman/Two-roman.ss01/Four-roman.ss01/Six-roman.ss01/Eight-roman.ss01/Ten-roman.ss01/Fifty-roman.ss01/Fivehundred-roman.ss01</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -32,7 +31,7 @@
 		<integer>72</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>D0A2A201-4C94-473D-AFAF-49EE3E53F1D3</string>
+	<string>1368A26D-1A56-4D7F-831C-AB203F92E060</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.master.name</key>

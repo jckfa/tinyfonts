@@ -773,6 +773,7 @@
 	<key>@MMK_L_guilsinglright</key>
 	<array>
 		<string>Thorn</string>
+		<string>braceright</string>
 		<string>guillemotright</string>
 		<string>guilsinglright</string>
 		<string>greater</string>
@@ -1618,6 +1619,7 @@
 		<string>Eth.ss03.ss04</string>
 		<string>lslash</string>
 		<string>lslash.001</string>
+		<string>braceleft</string>
 	</array>
 	<key>@MMK_R_Hbar</key>
 	<array>
