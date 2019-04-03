@@ -92,5 +92,4 @@ Autohinted w/ no plan to go manual.
 - [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
 
 ### Financial Support
-Donations are always very much appreciated: [@jckfa on Venmo](https://venmo.com/jckfa), [@jckfa on Cash ](https://cash.me/$jckfa)
-
+Donations [@jckfa on Venmo](https://venmo.com/jckfa) or [$jckfa on Cash ](https://cash.me/$jckfa) are always very much appreciated, especially when using these fonts in commercial applications.
