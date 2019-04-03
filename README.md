@@ -1,5 +1,7 @@
 # [Download Latest Version](https://github.com/jckfa/tinyfonts/archive/master.zip)
 
+![Basic Character Set](/documentation/basic_char_set.png "Basic Character Set")
+
 ### About
 ```
 Designed by Jack Halten Fahnestock
