@@ -69,7 +69,7 @@ to the leading formula and table below for more specific adjustment.
 Leading Formula:
 x = font size
 y = desired number of dot spaces between lines
-leading = x / 10 * (y + 5)
+leading = x ÷ 10 × (y + 5)
 ```
 | Font Size | Leading (0 dots) | Leading (1 dot) | Leading (2 dots) | Leading (3 dots) | Leading (4 dots) |
 | --------- | ---------------- | --------------- | ---------------- | ---------------- | ---------------- |
@@ -93,5 +93,18 @@ Autohinted w/ no plan to go manual.
 - [Labelkey](https://github.com/RobertPratley/labelKey) (Glyphs plugin)
 - [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
 
-### Financial Support
-Donations [@jckfa on Venmo](https://venmo.com/jckfa) or [$jckfa on Cash ](https://cash.me/$jckfa) are always very much appreciated, especially when using these fonts in commercial applications.
+### Donate!
+Support the development of these fonts [@jckfa on Venmo](https://venmo.com/jckfa) or [$jckfa on Cash](https://cash.me/$jckfa), especially if you're profitting from them.
+```
+Suggested amounts for commercial use:
+
+1–3 Users $25
+4–7 Users $50
+8–12 Users $75
+13–18 Users $100
+19–25 Users $125
+
+```
+
+### Share In Use!
+If you use any of these fonts out in the world I want to know! Please get in touch via email (buttface@jackf.me) or on [Instagram](https://instagram.com/jckfa) or [Twitter](https://twitter.com/jckfa). Thanks!
