@@ -103,7 +103,6 @@ Suggested amounts for commercial use:
 8–12 Users $75
 13–18 Users $100
 19–25 Users $125
-
 ```
 
 ### Share In Use!
