@@ -24,7 +24,7 @@ as well as 15 separate instances (each increasing the dot size by 20 units).
 1300+ glyphs
 
 Only Latin-based languages for now but a lot of ’em
-Various styles (see opentype features below)
+Various styles (see section below)
 Extensive punctuation including case-sensitive forms
 superscript numbers, (unicase) letters, and some punctuation
 Small caps (unicase)
