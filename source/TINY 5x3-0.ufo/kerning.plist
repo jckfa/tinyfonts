@@ -135,6 +135,8 @@
 		<integer>-100</integer>
 		<key>@MMK_R_g.ss02</key>
 		<integer>-100</integer>
+		<key>@MMK_R_heart</key>
+		<integer>-100</integer>
 		<key>@MMK_R_hyphen</key>
 		<integer>-100</integer>
 		<key>@MMK_R_periodcentered.case</key>
@@ -1327,6 +1329,11 @@
 		<integer>0</integer>
 		<key>s</key>
 		<integer>0</integer>
+	</dict>
+	<key>L.ss01</key>
+	<dict>
+		<key>@MMK_R_heart</key>
+		<integer>-100</integer>
 	</dict>
 	<key>Y.ss04</key>
 	<dict>

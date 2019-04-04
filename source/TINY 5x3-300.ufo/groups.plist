@@ -810,6 +810,10 @@
 	<array>
 		<string>hbar</string>
 	</array>
+	<key>@MMK_L_heart</key>
+	<array>
+		<string>heart</string>
+	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
 		<string>hyphen</string>
@@ -1937,6 +1941,10 @@
 		<string>gbreve.ss02</string>
 		<string>uni0123.ss02</string>
 		<string>gdotaccent.ss02</string>
+	</array>
+	<key>@MMK_R_heart</key>
+	<array>
+		<string>heart</string>
 	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>

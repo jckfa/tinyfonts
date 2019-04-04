@@ -54192,7 +54192,7 @@ unicode = 2662;
 },
 {
 glyphname = heartBlackSuit;
-lastChange = "2019-03-22 04:44:18 +0000";
+lastChange = "2019-04-04 06:06:42 +0000";
 layers = (
 {
 components = (
@@ -54361,7 +54361,9 @@ name = "Jul 23 18, 18:32";
 width = 700;
 }
 );
+leftKerningGroup = heart;
 leftMetricsKey = H;
+rightKerningGroup = heart;
 rightMetricsKey = H;
 unicode = 2665;
 },
@@ -68186,6 +68188,7 @@ questiondown.ss02.ss04 = -100;
 "@MMK_R_dagger" = -100;
 "@MMK_R_four" = -100;
 "@MMK_R_g.ss02" = -100;
+"@MMK_R_heart" = -100;
 "@MMK_R_hyphen" = -100;
 "@MMK_R_periodcentered.case" = -100;
 "@MMK_R_q" = -100;
@@ -68813,6 +68816,9 @@ dcroat.ss04 = 0;
 four = -100;
 j.ss04 = 0;
 s = 0;
+};
+L.ss01 = {
+"@MMK_R_heart" = -100;
 };
 Y.ss04 = {
 "@MMK_R_period" = 0;

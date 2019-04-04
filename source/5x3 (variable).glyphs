@@ -179,17 +179,11 @@ ascender = 500;
 capHeight = 500;
 custom = "0";
 descender = 0;
-horizontalStems = (
-0
-);
 iconName = Light_Condensed;
 id = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 userData = {
 GSCornerRadius = 72;
 };
-verticalStems = (
-0
-);
 weightValue = 0;
 xHeight = 400;
 },
@@ -96434,7 +96428,7 @@ unicode = 2662;
 },
 {
 glyphname = heartBlackSuit;
-lastChange = "2019-04-03 02:34:02 +0000";
+lastChange = "2019-04-04 06:07:29 +0000";
 layers = (
 {
 components = (
@@ -96769,7 +96763,9 @@ name = "Jul 23 18, 18:32";
 width = 700;
 }
 );
+leftKerningGroup = heart;
 leftMetricsKey = H;
+rightKerningGroup = heart;
 rightMetricsKey = H;
 unicode = 2665;
 },
@@ -123161,6 +123157,7 @@ questiondown.ss02.ss04 = -100;
 "@MMK_R_dagger" = -100;
 "@MMK_R_four" = -100;
 "@MMK_R_g.ss02" = -100;
+"@MMK_R_heart" = -100;
 "@MMK_R_hyphen" = -100;
 "@MMK_R_periodcentered.case" = -100;
 "@MMK_R_q" = -100;
@@ -123788,6 +123785,9 @@ dcroat.ss04 = 0;
 four = -100;
 j.ss04 = 0;
 s = 0;
+};
+L.ss01 = {
+"@MMK_R_heart" = -100;
 };
 Y.ss04 = {
 "@MMK_R_period" = 0;
@@ -123974,6 +123974,7 @@ questiondown.ss02.ss04 = -100;
 "@MMK_R_dagger" = -100;
 "@MMK_R_four" = -100;
 "@MMK_R_g.ss02" = -100;
+"@MMK_R_heart" = -100;
 "@MMK_R_hyphen" = -100;
 "@MMK_R_periodcentered.case" = -100;
 "@MMK_R_q" = -100;
@@ -124601,6 +124602,9 @@ dcroat.ss04 = 0;
 four = -100;
 j.ss04 = 0;
 s = 0;
+};
+L.ss01 = {
+"@MMK_R_heart" = -100;
 };
 Y.ss04 = {
 "@MMK_R_period" = 0;
