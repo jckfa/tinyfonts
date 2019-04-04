@@ -98,11 +98,11 @@ Support the development of these fonts [@jckfa on Venmo](https://venmo.com/jckfa
 ```
 Suggested amounts for commercial use:
 
-1–3 Users $25
-4–7 Users $50
-8–12 Users $75
-13–18 Users $100
-19–25 Users $125
+1–3 Users.....$25
+4–7 Users.....$50
+8–12 Users....$75
+13–18 Users...$100
+19–25 Users...$125
 ```
 
 ### Share In Use!
