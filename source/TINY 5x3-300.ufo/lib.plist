@@ -4,7 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>L/heartBlackSuit/L.ss01/heartBlackSuit</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -32,7 +31,7 @@
 		<integer>72</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>1368A26D-1A56-4D7F-831C-AB203F92E060</string>
+	<string>BAFED8CB-5D4D-42FC-9002-5AF496F4E000</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.master.name</key>

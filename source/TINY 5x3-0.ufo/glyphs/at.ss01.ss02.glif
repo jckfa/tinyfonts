@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at.ss01.ss02" format="1">
-  <advance width="700"/>
+  <advance width="800"/>
   <outline>
-    <component base="_part.dot" xOffset="350"/>
-    <component base="_part.dot" xOffset="450" yOffset="-100"/>
-    <component base="_part.dot" xOffset="150" yOffset="500"/>
+    <component base="_part.dot" xOffset="550" yOffset="100"/>
     <component base="_part.dot" xOffset="350" yOffset="300"/>
-    <component base="_part.dot" xOffset="250" yOffset="300"/>
-    <component base="_part.dot" xOffset="550" yOffset="300"/>
-    <component base="_part.dot" xOffset="550" yOffset="400"/>
-    <component base="_part.dot" xOffset="50" yOffset="400"/>
-    <component base="_part.dot" xOffset="250"/>
+    <component base="_part.dot" xOffset="650" yOffset="300"/>
+    <component base="_part.dot" xOffset="650" yOffset="400"/>
+    <component base="_part.dot" xOffset="150" yOffset="400"/>
     <component base="_part.dot" xOffset="350" yOffset="500"/>
     <component base="_part.dot" xOffset="450" yOffset="500"/>
     <component base="_part.dot" xOffset="250" yOffset="500"/>
@@ -18,18 +14,22 @@
     <component base="_part.dot" xOffset="50" yOffset="200"/>
     <component base="_part.dot" xOffset="50" yOffset="100"/>
     <component base="_part.dot" xOffset="350" yOffset="100"/>
-    <component base="_part.dot" xOffset="250" yOffset="100"/>
-    <component base="_part.dot" xOffset="550" yOffset="200"/>
-    <component base="_part.dot" xOffset="50"/>
-    <component base="_part.dot" xOffset="550" yOffset="100"/>
-    <component base="_part.dot" xOffset="350" yOffset="200"/>
-    <component base="_part.dot" xOffset="550"/>
+    <component base="_part.dot" xOffset="650" yOffset="200"/>
+    <component base="_part.dot" xOffset="150"/>
+    <component base="_part.dot" xOffset="250" yOffset="-100"/>
     <component base="_part.dot" xOffset="350" yOffset="-100"/>
+    <component base="_part.dot" xOffset="450" yOffset="-100"/>
+    <component base="_part.dot" xOffset="250" yOffset="200"/>
+    <component base="_part.dot" xOffset="550" yOffset="-100"/>
+    <component base="_part.dot" xOffset="550" yOffset="500"/>
+    <component base="_part.dot" xOffset="650" yOffset="-100"/>
+    <component base="_part.dot" xOffset="450" yOffset="300"/>
+    <component base="_part.dot" xOffset="450" yOffset="200"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-03 02:34:02 +0000</string>
+      <string>2019-04-10 04:16:05 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

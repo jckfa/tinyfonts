@@ -61371,17 +61371,14 @@ rightMetricsKey = H;
 {
 color = 1;
 glyphname = at.ss01.ss02;
-lastChange = "2019-02-13 09:43:08 +0000";
+lastChange = "2019-04-10 04:11:24 +0000";
 layers = (
 {
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 components = (
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, -100}";
+transform = "{1, 0, 0, 1, 450, 0}";
 },
 {
 name = _part.dot;
@@ -61397,11 +61394,11 @@ transform = "{1, 0, 0, 1, 250, 300}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 300}";
+transform = "{1, 0, 0, 1, 650, 300}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 400}";
+transform = "{1, 0, 0, 1, 650, 400}";
 },
 {
 name = _part.dot;
@@ -61437,7 +61434,7 @@ transform = "{1, 0, 0, 1, 50, 100}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 100}";
+transform = "{1, 0, 0, 1, 450, 100}";
 },
 {
 name = _part.dot;
@@ -61445,7 +61442,7 @@ transform = "{1, 0, 0, 1, 250, 100}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 200}";
+transform = "{1, 0, 0, 1, 650, 200}";
 },
 {
 name = _part.dot;
@@ -61453,23 +61450,122 @@ transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 200}";
+},
+{
+name = _part.dot;
 transform = "{1, 0, 0, 1, 550, 100}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 200}";
+transform = "{1, 0, 0, 1, 550, 500}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 0}";
+transform = "{1, 0, 0, 1, 350, 100}";
+}
+);
+layerId = "454679A5-9152-456B-8343-A0E49508FA25";
+name = "Apr 10 19, 00:11";
+width = 800;
+},
+{
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, -100}";
 },
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 350, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 200}";
 }
 );
 layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
-width = 700;
+width = 800;
 },
 {
 associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
@@ -61485,10 +61581,6 @@ transform = "{1, 0, 0, 1, 150, 500}";
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 300}";
 },
 {
 name = _part.dot;
@@ -61529,10 +61621,6 @@ transform = "{1, 0, 0, 1, 50, 100}";
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 350, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 100}";
 },
 {
 name = _part.dot;
@@ -61583,8 +61671,8 @@ name = _part.dot;
 transform = "{1, 0, 0, 1, 450, 200}";
 }
 );
-layerId = "089E93F4-18E4-4A1A-ADE5-9FF74A8593A7";
-name = "Feb 10 19, 19:55";
+layerId = "2E1A0F24-576D-4BFC-99EC-958FB08632AA";
+name = "Apr 10 19, 00:11";
 width = 800;
 }
 );
@@ -63555,101 +63643,28 @@ rightMetricsKey = H;
 {
 color = 3;
 glyphname = at.ss02.ss04;
-lastChange = "2019-02-13 09:43:08 +0000";
+lastChange = "2019-04-10 04:09:23 +0000";
 layers = (
 {
 components = (
 {
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 0}";
+name = at.ss02;
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 450, -100}";
+transform = "{1, 0, 0, 1, 50, 500}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 500}";
+transform = "{1, 0, 0, 1, 550, 500}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 300}";
+transform = "{1, 0, 0, 1, 550, -100}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 500}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, 500}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 500}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 50, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, -100}";
+transform = "{1, 0, 0, 1, 50, -100}";
 }
 );
 layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
@@ -63762,21 +63777,13 @@ rightMetricsKey = H;
 {
 color = 3;
 glyphname = at.ss01.ss02.ss04;
-lastChange = "2019-02-13 09:43:08 +0000";
+lastChange = "2019-04-10 04:12:04 +0000";
 layers = (
 {
 components = (
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 0}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 450, -100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 150, 500}";
+transform = "{1, 0, 0, 1, 550, 100}";
 },
 {
 name = _part.dot;
@@ -63784,23 +63791,15 @@ transform = "{1, 0, 0, 1, 350, 300}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 300}";
+transform = "{1, 0, 0, 1, 650, 300}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 300}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 400}";
+transform = "{1, 0, 0, 1, 650, 400}";
 },
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 50, 400}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 0}";
 },
 {
 name = _part.dot;
@@ -63832,11 +63831,7 @@ transform = "{1, 0, 0, 1, 350, 100}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 250, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 200}";
+transform = "{1, 0, 0, 1, 650, 200}";
 },
 {
 name = _part.dot;
@@ -63844,30 +63839,47 @@ transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 100}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 350, 200}";
-},
-{
-name = _part.dot;
-transform = "{1, 0, 0, 1, 550, 0}";
+transform = "{1, 0, 0, 1, 250, -100}";
 },
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 350, -100}";
-}
-);
-layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
-width = 700;
 },
 {
-associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
-components = (
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, -100}";
+},
 {
-alignment = 1;
-name = at.ss01.ss02;
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, -100}";
 },
 {
 name = _part.dot;
@@ -63879,15 +63891,22 @@ transform = "{1, 0, 0, 1, 50, -100}";
 },
 {
 name = _part.dot;
-transform = "{1, 0, 0, 1, 650, 500}";
+transform = "{1, 0, 0, 1, 250, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 100}";
 },
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 650, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 500}";
 }
 );
-layerId = "089E93F4-18E4-4A1A-ADE5-9FF74A8593A7";
-name = "Feb 10 19, 19:55";
+layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 width = 800;
 }
 );
