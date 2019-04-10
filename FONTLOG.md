@@ -1,7 +1,11 @@
 ChangeLog
 ----------
 
-04 Apr 2018 (Jack Halten Fahnestock) TINY 5x3 v1.0
+10 Apr 2019 (Jack Halten Fahnestock) TINY 5x3 v1.1
+- fix @ issues
+- add full character set pdf
+
+04 Apr 2019 (Jack Halten Fahnestock) TINY 5x3 v1.0
 - Initial release of 5x3
 
 
