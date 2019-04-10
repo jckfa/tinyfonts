@@ -4,6 +4,7 @@ ChangeLog
 10 Apr 2019 (Jack Halten Fahnestock) TINY 5x3 v1.1
 - fix @ issues
 - add full character set pdf
+- add reverse anim to basic char set gif
 
 04 Apr 2019 (Jack Halten Fahnestock) TINY 5x3 v1.0
 - Initial release of 5x3
