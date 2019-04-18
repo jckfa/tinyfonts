@@ -1484,6 +1484,8 @@
 	<string>heart.glif</string>
 	<key>heart.ss01</key>
 	<string>heart.ss01.glif</string>
+	<key>hi</key>
+	<string>hi.glif</string>
 	<key>high_voltage</key>
 	<string>high_voltage.glif</string>
 	<key>hungarumlaut</key>

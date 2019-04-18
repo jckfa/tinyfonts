@@ -4,13 +4,12 @@
   <unicode hex="0067"/>
   <outline>
     <component base="_part.dot" xOffset="150" yOffset="200"/>
-    <component base="_part.dot" xOffset="50" yOffset="300"/>
-    <component base="_part.dot" xOffset="250" yOffset="300"/>
     <component base="_part.dot" xOffset="250" yOffset="100"/>
     <component base="_part.dot" xOffset="150"/>
     <component base="_part.dot" xOffset="50" yOffset="200"/>
     <component base="_part.dot" xOffset="50"/>
     <component base="_part.dot" xOffset="250" yOffset="200"/>
+    <component base="_part.dot" xOffset="50" yOffset="300"/>
     <component base="_part.dot" xOffset="150" yOffset="300"/>
     <contour>
       <point x="200" y="450" type="move" name="top"/>
@@ -19,7 +18,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-10 04:16:04 +0000</string>
+      <string>2019-04-18 21:26:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

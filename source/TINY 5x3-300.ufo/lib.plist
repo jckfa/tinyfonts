@@ -31,7 +31,7 @@
 		<integer>72</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>BAFED8CB-5D4D-42FC-9002-5AF496F4E000</string>
+	<string>0E822802-0210-4F0A-A639-18356659452F</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.master.name</key>
@@ -1429,6 +1429,7 @@
 		<string>expand.ss01</string>
 		<string>slashFieldStart</string>
 		<string>slashFieldEnd</string>
+		<string>hi</string>
 	</array>
 </dict>
 </plist>

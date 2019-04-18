@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
 copyright = "Copyright © 2018 by Jack Halten Fahnestock. All rights reserved.";
 customParameters = (
 {
@@ -17534,7 +17534,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2019-02-18 00:56:42 +0000";
+lastChange = "2019-04-18 21:20:38 +0000";
 layers = (
 {
 anchors = (
@@ -17543,6 +17543,7 @@ name = top;
 position = "{200, 450}";
 }
 );
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
 components = (
 {
 name = _part.dot;
@@ -17575,6 +17576,139 @@ transform = "{1, 0, 0, 1, 50, 0}";
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 300}";
+}
+);
+layerId = "88E9D929-0DEA-4DD6-96B2-0CCF82CDC54C";
+name = "Apr 17 19, 12:06";
+width = 400;
+},
+{
+anchors = (
+{
+name = top;
+position = "{200, 450}";
+}
+);
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 300}";
+}
+);
+layerId = "945322DB-0707-423C-89D5-7BB97E94C844";
+name = "Apr 17 19, 12:07";
+width = 400;
+},
+{
+anchors = (
+{
+name = top;
+position = "{200, 450}";
+}
+);
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 300}";
+}
+);
+layerId = "A97C764B-618E-457B-B1B5-7AC24815CE38";
+name = "Apr 18 19, 17:20";
+width = 400;
+},
+{
+anchors = (
+{
+name = top;
+position = "{200, 450}";
+}
+);
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 300}";
 },
 {
 name = _part.dot;
@@ -24605,7 +24739,7 @@ rightMetricsKey = H;
 {
 color = 3;
 glyphname = g.ss04;
-lastChange = "2019-02-19 00:54:47 +0000";
+lastChange = "2019-04-18 21:24:29 +0000";
 layers = (
 {
 components = (
@@ -24615,9 +24749,28 @@ name = g;
 {
 name = _part.dot;
 transform = "{1, 0, 0, 1, 250, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 300}";
 }
 );
 layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+width = 400;
+},
+{
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+components = (
+{
+name = g;
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 0}";
+}
+);
+layerId = "9F2A5B4F-4FF0-49C2-BC75-3C377FFBFF90";
+name = "Apr 18 19, 17:24";
 width = 400;
 }
 );
@@ -68120,6 +68273,302 @@ leftKerningGroup = slash;
 leftMetricsKey = H;
 rightKerningGroup = A;
 rightMetricsKey = H;
+},
+{
+color = 7;
+export = 0;
+glyphname = hi;
+lastChange = "2019-04-18 21:18:48 +0000";
+layers = (
+{
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, 600}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 950, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 950, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 950, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1050, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1150, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 600}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1350, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1450, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1350, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1450, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1250, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1150, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1350, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1250, 100}";
+}
+);
+layerId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+width = 1700;
+},
+{
+associatedMasterId = "C72150A5-A890-431E-BE7C-C74FDE5B3EFA";
+components = (
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 0}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 50, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 150, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 250, -200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 350, -200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 450, -200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 550, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 650, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 750, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1050, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1050, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1050, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1150, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1250, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1650, 100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1650, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1650, 300}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1650, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1650, 500}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1450, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 400}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1450, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1550, 200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1350, -200}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1250, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1450, -100}";
+},
+{
+name = _part.dot;
+transform = "{1, 0, 0, 1, 1350, 0}";
+}
+);
+layerId = "DBDAC072-9AD8-43F6-8413-F06BF3352D96";
+name = "Apr 17 19, 15:26";
+width = 1800;
+}
+);
+leftMetricsKey = H;
+rightMetricsKey = H;
 }
 );
 instances = (
@@ -68957,5 +69406,5 @@ userData = {
 LWPluginVersion = "1366";
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 2;
 }

@@ -4,11 +4,12 @@
   <outline>
     <component base="g"/>
     <component base="_part.dot" xOffset="250"/>
+    <component base="_part.dot" xOffset="250" yOffset="300"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-10 04:16:04 +0000</string>
+      <string>2019-04-18 21:26:37 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
