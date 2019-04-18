@@ -1,4 +1,4 @@
-# [Download Latest Version](https://github.com/jckfa/tinyfonts/archive/master.zip) (v1.1, 10 Apr 2019)
+# [Download Latest Version](https://github.com/jckfa/tinyfonts/archive/master.zip) (v1.002, 18 Apr 2019)
 
 ![Basic Character Set](/documentation/basic_char_set.gif "Basic Character Set")
 
