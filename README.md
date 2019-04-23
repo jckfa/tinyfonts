@@ -94,7 +94,7 @@ Autohinted w/ no plan to go manual.
 - [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
 
 ### Donate!
-Support the development of these fonts [@jckfa on Venmo](https://venmo.com/jckfa) or [$jckfa on Cash](https://cash.me/$jckfa), especially if you're profitting from them.
+Support the development of these fonts [@jckfa on Venmo](https://venmo.com/jckfa) or [$jckfa on Cash](https://cash.me/$jckfa), especially if you're profiting from them.
 ```
 Suggested amounts for commercial use:
 
