@@ -94,15 +94,15 @@ Autohinted w/ no plan to go manual.
 - [DINAMO Font Gauntlet](https://dinamodarkroom.com/) for testing
 
 ### Donate!
-Support the development of these fonts via [PayPal (jckfa)](https://paypal.me/jckfa), [Venmo (@jckfa)](https://venmo.com/jckfa), or [Cash ($jckfa)](https://cash.me/$jckfa), especially if you're profiting from them. Thank you!
+Please consider financially supporting the development of TINY via [PayPal (jckfa)](https://paypal.me/jckfa), [Venmo (@jckfa)](https://venmo.com/jckfa), or [Cash ($jckfa)](https://cash.me/$jckfa). Thank you.
 ```
-Suggested amounts for commercial use:
+Suggested donation amounts based on organization size of the end user:
 
-1–3 Users.....$25
-4–7 Users.....$50
-8–12 Users....$75
-13–18 Users...$100
-19–25 Users...$125
+$25....1 person
+$50....3–5 people
+$100...6–10 people
+$175...10–20 people
+$300...20–30 people
 ```
 
 ### Share In Use!
